@@ -1,6 +1,6 @@
-language: objective-c  #1
-osx_image: xcode8.3.3 #2
-xcode_project: MovingHelper.xcodeproj #3
+language: swift  #1
+osx_image: xcode8.3 #2
+xcode_project: testauto.xcodeproj #3
 # cocoa pads replace xcode_project with xcode_workspace and use .xcworkspace file
-xcode_scheme: MovingHelper #4
-xcode_sdk: iphonesimulator8.4 #5
+xcode_scheme: testauto #4
+xcode_sdk: iphonesimulator5s #5
