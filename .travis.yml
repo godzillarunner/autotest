@@ -1,5 +1,5 @@
 language: objective-c  #1
-osx_image: xcode6.4 #2
+osx_image: xcode8.3.3 #2
 xcode_project: MovingHelper.xcodeproj #3
 # cocoa pads replace xcode_project with xcode_workspace and use .xcworkspace file
 xcode_scheme: MovingHelper #4
